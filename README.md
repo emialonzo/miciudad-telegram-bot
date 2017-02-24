@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/emialonzo/miciudad-telegram-bot.png?label=ready&title=Ready)](https://waffle.io/emialonzo/miciudad-telegram-bot)
 # miciudad-telegram-bot
 Bot de telegram para interactuar con http://miciudad.org.py/
 
