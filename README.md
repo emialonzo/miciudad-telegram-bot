@@ -6,7 +6,7 @@ Bot de telegram para interactuar con http://miciudad.org.py/
 
 Docker: v. 1.10.0+
 
-Docker Compose: v. 1.6.0+
+Docker Compose: v. 1.5.2+
 
 (ref: https://docs.docker.com/compose/compose-file/compose-versioning/)
 
@@ -15,7 +15,4 @@ Obtener un token para el bot en https://telegram.me/BotFather. Luego renombrar e
 
 ## Ejecutar 
 Levantar docker con node
-`docker-compose run web bash`
-Dentro del conteiner
-`cd /code
-npm start`
+`docker-compose up`
